@@ -1,0 +1,11 @@
+#!/bin/bash
+
+alias ll='ls -lahG'
+alias la='ls -lahG'
+alias l='ls -lhlG'
+alias ls='ls -G'
+
+alias grep='grep --color'
+
+alias cp='cp -i'
+alias mv='mv -i'
